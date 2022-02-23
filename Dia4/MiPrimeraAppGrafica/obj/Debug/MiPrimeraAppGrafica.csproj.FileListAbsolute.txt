@@ -1,0 +1,10 @@
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\bin\Debug\MiPrimeraAppGrafica.exe.config
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\bin\Debug\MiPrimeraAppGrafica.exe
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\bin\Debug\MiPrimeraAppGrafica.pdb
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\obj\Debug\MiPrimeraAppGrafica.csprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\obj\Debug\MiPrimeraAppGrafica.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\obj\Debug\MiPrimeraAppGrafica.Properties.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\obj\Debug\MiPrimeraAppGrafica.csproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\obj\Debug\MiPrimeraAppGrafica.csproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\obj\Debug\MiPrimeraAppGrafica.exe
+C:\Users\Ramon RS\Documents\GitHub\CursoJavaAndCSharp\Dia4\MiPrimeraAppGrafica\obj\Debug\MiPrimeraAppGrafica.pdb
